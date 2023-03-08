@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 34 and so much more
+title: 34 and So Much More
 email: SLynch07@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Rambling posts and information about me, my projects, and my goals.
@@ -31,7 +31,7 @@ author: Sean Lynch
 
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
