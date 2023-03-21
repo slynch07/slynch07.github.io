@@ -36,6 +36,7 @@ title-profile: /assets/images/title-profile.jpg
 # theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
